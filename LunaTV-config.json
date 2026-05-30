@@ -453,5 +453,17 @@
       "api": "https://siwazyw.tv/api.php/provide/vod",
       "detail": "https://siwazyw.tv"
     }
+  } ,
+ "lives": {
+    "iptv_main": {
+      "name": "裤佬直播",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1.m3u",
+      "epg": "https://11.112114.xyz/pp.xml"
+    },
+    "ua_required": {
+      "name": "肥羊",
+      "url": "https://live.ottiptv.cc/iptv.m3u?userid=5674735064&sign=50d7d8356941e4c232106a666c6fa5f588e93c6a5a152a6aa5cf33ffbd141eee9f90fcf7a7cdf7ffc4ea11e7d4069478d0dd4ffa1317b9ffd901f5776a7186f6994de8c271de28&auth_token=709964dfb20918f1073c4ea6d9e6f580",
+      "ua": "okHttp/Mod-1.5.0.0"
+    }
   }
 }
