@@ -167,6 +167,11 @@ const API_SITES = {
       api: 'https://pz.v88.qzz.io/?url=https://lovedan.net/api.php/provide/vod',
       detail: 'https://lovedan.net',
     },
+    ddmfnet: {
+      name: '🎬蛋蛋影视',
+      api: 'https://www.ddmf.net/api.php/provide/vod',
+      detail: 'https://ddmf.net',
+    },
     91mdme: {
       name: '🔞麻豆视频',
       api: 'https://91md.me/api.php/provide/vod',
